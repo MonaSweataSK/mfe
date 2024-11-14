@@ -5,7 +5,7 @@ import React from 'react';
 export default() =>  {
   return (
     <div>
-        Hi there!
+        Hi there!!
         <hr/>
         <MarketingApp />
     </div>
